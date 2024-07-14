@@ -10,12 +10,4 @@ This repository demonstrates the application of Parameter-efficient Fine-Tuning 
 - **Low-Rank Adaptation (LoRA)**: Implement low-rank updates to the model weights to achieve efficient training.
 - **Scalable and Efficient**: Suitable for large-scale models and datasets.
 - **Extensible**: Easily extendable to different models and tasks.
-
-## Installation
-
-To use this library, ensure you have [Python](https://www.python.org/) and [pip](https://pip.pypa.io/en/stable/) installed. 
-
-Clone the repository:
-
-```sh
  
